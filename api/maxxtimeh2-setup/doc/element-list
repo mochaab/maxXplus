@@ -1,0 +1,12 @@
+com.activityplanner
+com.maxxplusapi
+com.maxxplusapi.controller
+com.maxxplusapi.dao
+com.maxxplusapi.entity
+com.maxxplusapi.service
+com.maxxtimeh2.maxxtimeh2setup
+com.messagehandler
+com.messagehandler.entity
+com.messagehandler.service
+com.notifications
+com.scheduler

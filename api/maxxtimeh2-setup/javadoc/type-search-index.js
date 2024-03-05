@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.maxxplusapi.controller","l":"ActvityPlannerController"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.maxxplusapi.entity","l":"Booking"},{"p":"com.maxxplusapi.entity","l":"BookingActivity"},{"p":"com.messagehandler.service","l":"MessageHandlerService"},{"p":"com.maxxplusapi.entity","l":"User"}];updateSearchResults();
